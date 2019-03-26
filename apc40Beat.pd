@@ -1,0 +1,8 @@
+#N canvas 996 211 328 354 10;
+#X obj 67 6 sequence;
+#X obj 67 44 osc;
+#X obj 67 -32 controls;
+#X obj 67 25 samplePlayer;
+#X obj 67 -13 tempoPlayer;
+#X obj 67 63 piano;
+#X obj 67 82 ext;
